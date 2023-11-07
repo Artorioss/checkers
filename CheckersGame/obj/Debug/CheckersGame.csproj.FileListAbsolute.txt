@@ -1,0 +1,66 @@
+C:\Users\329193-19\Desktop\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe.config
+C:\Users\329193-19\Desktop\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe
+C:\Users\329193-19\Desktop\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.pdb
+C:\Users\329193-19\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csprojAssemblyReference.cache
+C:\Users\329193-19\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Form1.resources
+C:\Users\329193-19\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Properties.Resources.resources
+C:\Users\329193-19\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.GenerateResource.cache
+C:\Users\329193-19\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.CoreCompileInputs.cache
+C:\Users\329193-19\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.exe
+C:\Users\329193-19\Desktop\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.pdb
+E:\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe.config
+E:\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe
+E:\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.pdb
+E:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Form1.resources
+E:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Properties.Resources.resources
+E:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.GenerateResource.cache
+E:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.CoreCompileInputs.cache
+E:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.exe
+E:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.pdb
+E:\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.AssemblyReference.cache
+C:\Users\540\OneDrive\Рабочий стол\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe.config
+C:\Users\540\OneDrive\Рабочий стол\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe
+C:\Users\540\OneDrive\Рабочий стол\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.pdb
+C:\Users\540\OneDrive\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.AssemblyReference.cache
+C:\Users\540\OneDrive\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Form1.resources
+C:\Users\540\OneDrive\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Properties.Resources.resources
+C:\Users\540\OneDrive\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.GenerateResource.cache
+C:\Users\540\OneDrive\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.CoreCompileInputs.cache
+C:\Users\540\OneDrive\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.exe
+C:\Users\540\OneDrive\Рабочий стол\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.pdb
+D:\Мусор\Паше\Шахматы 2\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe.config
+D:\Мусор\Паше\Шахматы 2\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe
+D:\Мусор\Паше\Шахматы 2\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.pdb
+D:\Мусор\Паше\Шахматы 2\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.AssemblyReference.cache
+D:\Мусор\Паше\Шахматы 2\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.SuggestedBindingRedirects.cache
+D:\Мусор\Паше\Шахматы 2\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Form1.resources
+D:\Мусор\Паше\Шахматы 2\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Properties.Resources.resources
+D:\Мусор\Паше\Шахматы 2\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.GenerateResource.cache
+D:\Мусор\Паше\Шахматы 2\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.CoreCompileInputs.cache
+D:\Мусор\Паше\Шахматы 2\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.exe
+D:\Мусор\Паше\Шахматы 2\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.pdb
+D:\Мусор\Паше\Шахматы 2\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Form2.resources
+D:\Разное\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe.config
+D:\Разное\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe
+D:\Разное\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.pdb
+D:\Разное\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.AssemblyReference.cache
+D:\Разное\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.SuggestedBindingRedirects.cache
+D:\Разное\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Form1.resources
+D:\Разное\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Form2.resources
+D:\Разное\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Properties.Resources.resources
+D:\Разное\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.GenerateResource.cache
+D:\Разное\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.CoreCompileInputs.cache
+D:\Разное\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.exe
+D:\Разное\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.pdb
+D:\Работы под заказ\Паше\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe.config
+D:\Работы под заказ\Паше\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.exe
+D:\Работы под заказ\Паше\CheckersGame-master\CheckersGame\bin\Debug\CheckersGame.pdb
+D:\Работы под заказ\Паше\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.AssemblyReference.cache
+D:\Работы под заказ\Паше\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.SuggestedBindingRedirects.cache
+D:\Работы под заказ\Паше\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Form1.resources
+D:\Работы под заказ\Паше\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Form2.resources
+D:\Работы под заказ\Паше\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.Properties.Resources.resources
+D:\Работы под заказ\Паше\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.GenerateResource.cache
+D:\Работы под заказ\Паше\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.csproj.CoreCompileInputs.cache
+D:\Работы под заказ\Паше\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.exe
+D:\Работы под заказ\Паше\CheckersGame-master\CheckersGame\obj\Debug\CheckersGame.pdb
